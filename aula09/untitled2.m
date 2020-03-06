@@ -1,0 +1,1 @@
+function [NumBits, NumBPS] = GeraMensagem(f, CompMesg, nBits)
